@@ -1,6 +1,7 @@
-5b3f53f6e09d2ad935a495417831691b9311ea7a9f2501c8c228e981e24411f8  Docryvia-v0.6.0-rc1-signed.apk
-094aaf09365a4438af19b31d2ff64655dc0b3140741e7036d9ef378faac9a298  Docryvia-v0.6.0-rc1-signed.aab
-27a8b29cfeca38ece8fc1163e85c6a7b9b4cac9ad27810ed1005bbb367d90360  Docryvia-v0.6.0-rc1-reviewed-source.zip
+93261f43fa7ba38e3343bebf40bbf04222b162269f7be21ca794c7d6c8023150  Docryvia-v0.6.0-rc2-signed.apk
+5b1b7a0467f2bb82def5fe0f7702901d84ed4e750272600217788f65e0f6ee7a  Docryvia-v0.6.0-rc2-signed.aab
+8174c94867a64410931d9edb7d7f99ed2e81ff9699d53e6a7d3351ad0f38afff  Docryvia-v0.6.0-rc2-reviewed-source.zip
+0d798fd4be16d47af93974c97ec3934a60c18d55b4005344ed409c532b43c00b  Docryvia-Indus-deployment-kit.zip
+b6924952a52601b59988c454c922b95866d086de56d4ba160cc94acbb0db29e5  Docryvia-v0.6.0-rc2-review.md
 9f7bacecbdf2c359d2ea142d6b112bc732816fc0865fa3a4e02f555c946f8efe  Docryvia-logo-and-previews.zip
-4a099799553e90565867dba1f4f4dfa1249d244dd47b19c1df0bf6cdd6d44b36  Docryvia-Indus-deployment-kit.zip
-d3b72de074ce5e8b30fbd0b8fdbdaff52765c1163cba0424966869c63ef7e4f2  Docryvia-v0.6.0-rc1-review.md
+31e0db366bcda3fe1699cdeee11506614158e26705d770d42670cbc80da688b3  Docryvia-feature-roadmap.md
