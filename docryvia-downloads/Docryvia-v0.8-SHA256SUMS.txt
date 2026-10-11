@@ -1,0 +1,17 @@
+7f81a1be6da1e9b283e8e946f20b20961ad40c752c827a295b11082df67aafa8  Docryvia-v0.8.0-rc1-signed.apk
+719d6897496e50581f0b83814444c7e552106c853d168d951a4b4a4f2ea3418e  Docryvia-v0.8.0-rc1-signed.aab
+163392ffac5e452a8d9bc1d105eaa22f28666705ab6a6616612fe0ed03690baa  Docryvia-v0.8.0-rc1-reviewed-source.zip
+c839da4ef5319b391b68cf6adbfe7bd68c8ef189592a4eea37d11213655e16f0  Docryvia-v0.8-resources.zip
+5e62344c1fd8478c4a3b5d2415b09e839d00d9a9b4b67c193e87a20c9a3c80da  Docryvia-v0.8-Indus-deployment-kit.zip
+559726601bff7d23e7befb8c0b21bcf2c4d7a4779a0ea4cce316aaf317584c87  Docryvia-v0.8-upgrade-report.md
+4d05ee1618797607bcca918bc971771499084c5bd237917d49d23bd671373332  Docryvia-v0.8-screenshots.zip
+2c5f7bc9d7c9068912933029c7f14886d627ee293a5401e650dec4c9cbb6c965  Docryvia-v0.8-screen-01-home.png
+01672d860d15b1d088af7c3bb216a6ee9b6c6bb8f7f41155e3511fc88a3bebec  Docryvia-v0.8-screen-02-password-organization.png
+7d9fff2bf05633f16d4905a893201f80a339434286b63f12e1f2ad0125364f5e  Docryvia-v0.8-screen-03-password-accounts.png
+66a97c330af375ebf46a55012b04757f6490edf3cdaf9605a12b2b801c5305c0  Docryvia-v0.8-screen-04-documents.png
+ed240e799603572278a449b25a79844204f75a1521975df56f2c14e7750885b4  Docryvia-v0.8-screen-05-wallet.png
+496f6f4d38530df4678433a5efecb415fa2bcc05f5d95d10c889c555374543ff  Docryvia-v0.8-screen-06-security-settings.png
+03f2e9e728a97fad8458c57327f159dd8a71d44105718b37615d46de14705c95  Docryvia-v0.8-screen-07-authenticator.png
+d7f20073ccf6d004ec073b0afb76e0370bf9a24f7560d17d3da256c8102dbaff  Docryvia-v0.8-screen-08-duplicate-review.png
+6a973aab094e6475840fa490ff0bae9bf595b8f0b788d64c8b79b6e1e6d05154  Docryvia-v0.8-screen-09-password-studio.png
+422dabbfa4a149cfd623d621a0ecad6474ed739c66cfcf161d20b63a82fdfb76  Docryvia-v0.8-screen-10-pdf-preview.png
