@@ -1,0 +1,6 @@
+a9c68502592934283b9345985ceada8bb5ad879c000c8cafc2b8e032d3364068  Docryvia-v0.8.0-rc2-signed.apk
+06eda12c2357e862281487ab68606ec5b37456f7a8bbfa1dc6740b3783771dbe  Docryvia-v0.8.0-rc2-signed.aab
+b85b97ec36829278b16f890eec54be5f47263d7b8b10a6523961587d8fbea77a  Docryvia-v0.8.0-rc2-reviewed-source.zip
+05699a05fbe11d7f997d861bcc28e9a86f2fba3f4dab5945e6951dc54d53188d  Docryvia-v0.8-rc2-resources.zip
+ca4aeefb89ea5678a8d4a6b7f7814be23f82060de80ffeb35f77c5ed5dcbebbd  Docryvia-v0.8-rc2-Indus-deployment-kit.zip
+e3b1bd3d43606208b99a06ab702711319495ec596e683396ba736a910eefa572  Docryvia-v0.8-rc2-upgrade-report.md
