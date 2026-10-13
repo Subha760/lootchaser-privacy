@@ -1,0 +1,14 @@
+b2eed3be633753e0dfded5167e54e1ff70865997b887ea11b35333ed343c2a9f  Docryvia-v0.9.0-rc1-signed.apk
+86899b5a6594759b1b1146cd8c25fdd64948a97038694c308fe537b0d10ce767  Docryvia-v0.9.0-rc1-signed.aab
+f1a7b756763b81efb9f00f71f32059fd027efd3f55208e1c063a925a2f07856f  Docryvia-v0.9.0-rc1-reviewed-source.zip
+1e1bd85d028bb967e0b1a66995662e98208e94834981f361e5162be34c6e1a75  Docryvia-v0.9-resources.zip
+aa0325c1a4382cae8a0439a8631695f0654e48f409ed8bbb7264693ec14f7aa9  Docryvia-v0.9-Indus-deployment-kit.zip
+066ca1ba89bc027a6f47dd4a55b7af57992abbe7f78a950fc5477a64b21775be  Docryvia-v0.9-upgrade-report.md
+20538fb91b2b33d5010167315a4ba5233e81b094e01ad48c7f00b70f02ff8959  Docryvia-v0.9-screenshots.zip
+bd5a6f6f7c909189f864323513d7f9f31ded7ed3a28adfe302ee1d256b41a912  Docryvia-v0.9-screen-01-create-password.png
+6e88812bed2e1739afc17a1374fbd98fac4a612633a6e8ac88e340bd9b21af3c  Docryvia-v0.9-screen-02-required-question.png
+8b1f8ee8a7e38069db22fd5d6d2e434f82e944c8b89231e936c13fddca78a74b  Docryvia-v0.9-screen-03-setup-device-unlock.png
+f3a98ff9d43197f6d504ada40c036cd5b6384da5c7d9e672c70fa1ed917f2029  Docryvia-v0.9-screen-04-copy-recovery-key.png
+e818eb303419b3e69c7a32e07c4b91d77dd273228349be1ec45d1e62d57aac75  Docryvia-v0.9-screen-05-recovery-key-copied.png
+48e81638917b45c483adf46895b52d7d31d3e9b25e6ba266992a3aa205d12909  Docryvia-v0.9-screen-06-access-permissions.png
+e28406072f7949d001dea44f3b513470f8cbc8d26daa261050de4d6107b252ff  Docryvia-v0.9-screen-07-autofill-selected.png
